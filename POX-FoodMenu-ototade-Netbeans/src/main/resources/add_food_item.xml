@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<NewFoodItems xmlns:xsi='http://cse564.asu.edu/PoxAssignment'>
+    <FoodItem country="IN">
+        <name>Batata Wada</name>
+        <description>Boiled potato patties fried using corn flour.</description>
+        <category>Dinner</category>
+        <price>15.95</price>
+    </FoodItem>
+</NewFoodItems>
